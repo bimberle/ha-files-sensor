@@ -4,6 +4,10 @@ To install, copy the files-folder to your homeassistant config (folder custom_co
 
 Sensor Data will look like this:
 
+```json
+{
+    
+
 path: /config/www/cam/
 filter: **/*.jpg
 number_of_files: 3
@@ -363,3 +367,5 @@ limit: 300
 unit_of_measurement: MB
 icon: mdi:folder
 friendly_name: kamera_eingang
+}
+```
