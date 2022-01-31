@@ -1,5 +1,7 @@
 # ha-files-sensor
 
+Fork from https://github.com/TarheelGrad1998/files
+
 To install, copy the files-folder to your homeassistant config (folder custom_components)
 
 Define Sensor in sensor.yaml (Entities)
